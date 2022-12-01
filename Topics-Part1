@@ -107,7 +107,13 @@ Program memory Parts - Text segment , (PCB) ,Data segment , Heap , Stack  , OS K
        
  // Object Oriented Programming 
  
- 1. 
+ 1. Definition & Principles
+     - Encapsulation
+     - Abstraction
+     - Inheritance 
+     - Polymorphism
+
+ 
        
        
        
