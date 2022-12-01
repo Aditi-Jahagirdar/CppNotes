@@ -1,0 +1,125 @@
+1. Variable
+
+    1.1 Local Variable - scope & lifetime
+
+    1.2 Global Variable - scope & lifetime
+
+    1.3 Static Variable  - scope & lifetime
+                         - global & inside function
+                         - inside and outside class
+
+    1.4 Inside Class (Member variables or attributes) 
+
+    1.5 One definition rule: 
+    
+    1.6 Variable declaration & definition , Extern keyword
+    
+2.Reference 
+
+3.Pointer 
+
+   -type of const pointers
+   
+   - Array  & pointer relation
+   
+   - Arrow operator 
+   
+   - void pointer
+   
+   - null pointer
+   
+   - function pointer (purple diary)
+
+4.Functions :
+
+    Main Part- Return type, Function name , Parameters , Function declaration & definition
+
+    4.1 Outside Class
+
+    4.2 Inside Class (Methods)
+
+    4.3 Static functions (inside & outside class)
+
+    4.4 One definition rule: 
+    
+    4.5a Pass by Value 
+    
+    4.5b Pass by Reference
+    
+    4.5c Pass by Pointer
+    
+    4.6a Return by Value
+    
+    4.6b Return by Reference 
+    
+    4.6c Return by Pointer
+    
+    4.7 Inline Function 
+    
+    4.8 Lammda function
+    
+5. Memory Allocation in Stack Vs Memory allocation in Heap
+
+Program memory Parts - Text segment , (PCB) ,Data segment , Heap , Stack  , OS Kernel
+   
+   5.a Stack - once scope of variable/function/class is complete , corresponding stack is destroyed and memory is freed. 
+           Stack memory limit is less (...MB) , if stack height keeps increasing and is beyond the limit , it causes stack overflow
+           and program crashes.
+           
+   5.b Heap - Dynamic memory allocation at runtime . RAII - 
+              New & Delete 
+              Smart Pointers - Automatic memory management 
+                             - Unique , Shared , Weak smart pointers
+                             
+6. Enum 
+
+7. String 
+       -Const char* ... = " "   --> string lliteral (data segment)
+       - string .. = " "   ($include <string>)
+       
+8. Casting  - Implicit & Explicit
+       8.1 Static Casting 
+       8.2 Dynamic Casting (purple diary)
+       8.3 Const Casting 
+       8.4 Reinterpret Casting
+       
+ 9. Template 
+        9.1 Function Template
+        9.2 Template Specialization
+        
+ 10. Compile time Polymorphism 
+       10.1 Function Overloading
+       10.2 Operator Overloading
+       
+ 11.Standard Template library (purple diary table)
+ 
+       11.1 Vector 
+       
+       11.2 Map  
+       
+       11.3 Unordered Map (Hashing) (purple diary)
+       
+       11.3 List 
+       
+       11.4 forward list
+       
+       11.5 Stack , queue , deque , set , unordered set , array
+       
+ // Object Oriented Programming 
+ 
+ 1. 
+       
+       
+       
+       
+                             
+ 
+          
+          
+ 
+          
+          
+
+
+
+
