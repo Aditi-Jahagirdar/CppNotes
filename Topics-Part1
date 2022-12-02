@@ -13,22 +13,24 @@
     1.5 One definition rule: 
     
     1.6 Variable declaration & definition , Extern keyword
+
+    1.7 auto keyword 
     
 2.Reference 
 
 3.Pointer 
 
-   -type of const pointers
+    3.1 type of const pointers
    
-   - Array  & pointer relation
+    3.2 Array  & pointer relation
    
-   - Arrow operator 
+    3.3 Arrow operator 
    
-   - void pointer
+    3.4 void pointer
    
-   - null pointer
+    3.5 null pointer
    
-   - function pointer (purple diary)
+    3.6 function pointer (purple diary)
 
 4.Functions :
 
@@ -104,14 +106,97 @@ Program memory Parts - Text segment , (PCB) ,Data segment , Heap , Stack  , OS K
        11.4 forward list
        
        11.5 Stack , queue , deque , set , unordered set , array
+
+12. Exception Handling
+
+13. Libraries 
+       13.1 Static Libraries
+       
+       13.2 Dynamic Libraries
+
+14. Timing (chrono)
        
  // Object Oriented Programming 
+
+-Array
+
+1. Struct
+
+
+2. Class
+     
+     -Access specifier (Class)
+    
+     - one definition rule 
+     - Header Guard
+     
+      
+
+3. Struct Vs Class difference
  
- 1. Definition & Principles
-     - Encapsulation
-     - Abstraction
-     - Inheritance 
-     - Polymorphism
+4. Definition & Principles
+     4.1 Encapsulation
+     4.2 Abstraction
+     4.3 Inheritance 
+     4.4 Polymorphism
+
+5. Constructor 
+        
+     5.1 Default constructor
+     
+     5.2 Parametrised constructor
+ 
+     5.3 Copy constructor
+
+     5.4 Move constructor
+
+     5.5 Member Initialiser List
+
+     5.6 This keyword
+
+6. Destructor
+     6.1 Default 
+     
+     6.2 User-Defined
+
+7. Delete keyword
+
+   Default keyword
+
+8. Inheritance
+
+
+   8.1 Types of inheritance
+ 
+
+   8.2 Mode of inheritance
+
+
+   8.3 Diamond problem
+
+
+9. Polymorphic class
+
+   9.1 Virtual function
+
+   9.2 Override function
+
+   9.3 Pure Virtual Function
+
+   9.4 Abstract Class
+
+   9.5 Interface
+
+   9.2 Virtual destructor
+
+10. Composition
+
+
+
+
+
+
+
 
  
        
